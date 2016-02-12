@@ -1,0 +1,23 @@
+_repo: Homo_51036
+contributor:
+  illustrator:
+    agent_name: Bistolfi, Leonardo
+    gutenberg_agent_id: '46209'
+    url: http://www.gutenberg.org/2009/agents/46209
+creator:
+  author:
+    agent_name: Cena, Giovanni
+    gutenberg_agent_id: '46208'
+    url: http://www.gutenberg.org/2009/agents/46208
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2016-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51036'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Homo
+url: http://www.gutenberg.org/ebooks/51036
