@@ -1,15 +1,21 @@
 _repo: Homo_51036
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Bistolfi, Leonardo
     gutenberg_agent_id: '46209'
     url: http://www.gutenberg.org/2009/agents/46209
+covers:
+- cover_type: archival
+  image_path: 51036-h/images/cover.jpg
 creator:
   author:
     agent_name: Cena, Giovanni
     gutenberg_agent_id: '46208'
     url: http://www.gutenberg.org/2009/agents/46208
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51036#Homo
 gutenberg_bookshelf: IT Poesia
 gutenberg_issued: '2016-01-25'
 gutenberg_type: Text
